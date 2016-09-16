@@ -1,0 +1,3 @@
+[submodule "Audeeo"]
+	path = Audeeo
+	url = https://github.com/geowittejr/Audeeo.git
